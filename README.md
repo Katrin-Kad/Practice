@@ -9,17 +9,8 @@
 - **Админ-панель** ⚙ — редактирование контента приложения.   
 
 ## 🛠️ Технологии  
-- **Frontend:** (в разработке) React, TypeScript, Redux, Vite  
+- **Frontend:** React, TypeScript, Redux, Vite  
 - **Backend:** Node.js, Express  
-- **Дизайн:** Figma  
+- **NLP:** FasAPI, rubert-tiny2-russian-emotion-detection-ru-go-emotions
 
-## 🚀 Статус проекта  
-✅ Готов сервер на **Node.js (Express)**  
-✅ Разработан дизайн в **Figma**  
-🔨 Начата разработка интерфейса (React, TypeScript, Vite, Redux). 
 
-## 🔗 Ссылки  
-- [Макет в Figma](https://www.figma.com/design/bh2Ha1GVC5eJH6D2n0d4eT/Affecta?node-id=0-1&t=rqNVyrdkEMUkR3no-1)
-
-## 📌 Установка 
-*Добавлю инструкцию, когда проект станет рабочим*  
