@@ -24,3 +24,4 @@ const Articles = ({ page = 1, limit = 10}: ArticlesProps) => {
 };
 
 export default Articles;
+

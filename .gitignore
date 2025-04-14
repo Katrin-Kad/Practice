@@ -49,3 +49,18 @@ jest-transform-cache/
 *.temp
 *.tmp
 .qodo
+
+# виртуальное окружение
+.venv/
+venv/
+env/
+
+# pycache
+__pycache__/
+*.py[cod]
+
+# IDE и системные файлы
+.DS_Store
+
+# Python virtual env in NLP
+NLP/.venv310/
